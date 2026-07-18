@@ -1,2 +1,15 @@
-# subkart
-Discover premium digital subscriptions at unbeatable prices. Sub Kart provides secure, fast, and affordable access to top services.
+# SubKart
+
+SubKart is a trusted digital subscription store in Pakistan.
+
+We provide:
+
+- Netflix
+- YouTube Premium
+- IPTV
+- VPNs
+- Gift Cards
+
+Visit our website:
+
+https://subkart.pk
